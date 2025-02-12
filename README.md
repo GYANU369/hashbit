@@ -1,0 +1,2 @@
+# hashbit
+assignment of hashbit
